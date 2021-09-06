@@ -1,0 +1,2 @@
+section{padding-top:40px;padding-bottom:40px}ul{display:flex;justify-content:center;align-items:center;margin:0;padding:0}li{list-style-type:none}li:not(:last-child){margin-right:20px}button{width:350px;height:100px;border:none;border-radius:40px;box-shadow:0 0 10px rgba(0,0,0,.5);background-color:#d3d3d3;color:#708090;font-family:Times New Roman,Times,serif;font-size:32px;transition:box-shadow .25s cubic-bezier(.4,0,.2,1)}button:hover{box-shadow:none}
+/*# sourceMappingURL=/goit-js-hw-11-color-switch/src.bd4d7d69.css.map */
